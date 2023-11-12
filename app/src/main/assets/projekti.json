@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "type": "tip",
+    "subtype": "0",
+    "meta": {
+      "loc": {
+        "lat": "",
+        "lng": ""
+      }
+    },
+    "translations": {
+      "1": {
+        "title": "Naslov...","content": "Sadržaj..."}
+    },
+    "slike": {
+      "0": "1",
+      "1": "2",
+      "2": "3",
+      "3": "4"
+    },
+    "has_child": "0"
+  }
+]
